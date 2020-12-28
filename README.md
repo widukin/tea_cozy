@@ -23,7 +23,7 @@ Create a fictional tea store on your computer using image assets and a design sp
 ![TeaCozy Mockup](https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg)*go to [mockup](https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg)*
 
 ## Used Technologies
-- [HTML5 Icon](https://www.w3.org/html/logo/downloads/HTML5_Logo_64.png)
+- [HTML5](https://www.w3.org/html/logo/downloads/HTML5_Logo_64.png)
 - CSS3
 
 
