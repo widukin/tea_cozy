@@ -84,10 +84,6 @@ header img {
   padding-left: 10px;
 }
 
-header nav {
-  /* text-align: center; */
-}
-
 header nav a {
   padding: 1rem 2rem;
   text-decoration: underline;
@@ -109,7 +105,6 @@ main {
 
 #mission > * {
   background-color: black;
-  /* text-align: center; */
 }
 
 /* Featured Tea */
@@ -117,7 +112,6 @@ main {
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
-  /* text-align: center; */
 }
 
 #featuredTea div {
@@ -139,7 +133,6 @@ main {
 /* Contact */
 address {
   height: 200px;
-  /* text-align: center; */
 }
 
 address h5 {
