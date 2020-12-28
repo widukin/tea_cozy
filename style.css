@@ -39,6 +39,10 @@ a {
   color: inherit;
 }
 
+.center-text {
+  text-align: center;
+}
+
 .offscreen {
   position: absolute;
   left: -99999px;
@@ -81,7 +85,7 @@ header img {
 }
 
 header nav {
-  text-align: center;
+  /* text-align: center; */
 }
 
 header nav a {
@@ -105,7 +109,7 @@ main {
 
 #mission > * {
   background-color: black;
-  text-align: center;
+  /* text-align: center; */
 }
 
 /* Featured Tea */
@@ -113,7 +117,7 @@ main {
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
+  /* text-align: center; */
 }
 
 #featuredTea div {
@@ -135,7 +139,7 @@ main {
 /* Contact */
 address {
   height: 200px;
-  text-align: center;
+  /* text-align: center; */
 }
 
 address h5 {
