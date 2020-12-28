@@ -130,6 +130,10 @@ main {
 
 /* Locations */
 
+#locations {
+  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg");
+}
+
 /* Contact */
 address {
   height: 200px;
