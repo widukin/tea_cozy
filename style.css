@@ -41,7 +41,7 @@ section {
 h2,
 h3,
 h4 {
-  margin: 0.8em 0 0.5em 0;
+  margin: 25px 0 15px 0;
 }
 
 a {
@@ -153,7 +153,7 @@ main {
 .box {
   width: 300px;
   background-color: black;
-  margin: 15px 20px;
+  margin: 0 20px;
   opacity: 1;
 }
 
@@ -164,11 +164,13 @@ main {
 /* Contact */
 address {
   height: 200px;
+  font-style: normal;
 }
 
 address h5 {
   font-size: inherit;
   font-weight: inherit;
+  margin: 1.6em 0;
 }
 
 /* Footer */
