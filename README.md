@@ -25,5 +25,3 @@ Create a fictional tea store on your computer using image assets and a design sp
 ## Used Technologies
 ![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/45px-HTML5_logo_and_wordmark.svg.png)
 ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/32px-CSS3_logo_and_wordmark.svg.png)
-
-
